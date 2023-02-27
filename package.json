@@ -19,9 +19,10 @@
     "url": "https://github.com/Adrian-Kosnik/team-profile-generator/issues"
   },
   "homepage": "https://github.com/Adrian-Kosnik/team-profile-generator#readme",
-  "dependencies": {
-  },
   "devDependencies": {
     "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.0"
   }
 }
